@@ -1,9 +1,12 @@
 ## This is a coding guide
 
+$ npm install
+$ npm run start
 
 ## Tech:
 
 React + Redux + Redux-Observable, Rx.js 6 + Recompose + Styled-components
+
 
 ## Guide
 
