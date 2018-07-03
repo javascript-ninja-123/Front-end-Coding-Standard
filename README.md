@@ -17,4 +17,6 @@ React + Redux + Redux-Observable, Rx.js 6 + Recompose + Styled-components
 
 ### Styled-components in each UI component file
 
+### Higher Order Components in hocs
+
 ### Recompose-style(aka functional programming approach) higher order components in recomposes sfolder
